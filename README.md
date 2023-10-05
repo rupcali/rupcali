@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eda Rupçalı</h1>
 <h3 align="center">👩‍💻I am still learning and trying to get better at coding.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupcali" alt="rupcali" /></a> </p>
-
 - 🔭 I’m currently working on **python projects**
 
 - 🌱 I’m currently learning **python, pandas, tensorflow**
