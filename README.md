@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eda Rupçalı</h1>
 <h3 align="center">👩‍💻I am still learning and trying to get better at coding.</h3>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **python projects and a website**
 
 - 🌱 I’m currently learning **python, html, css**
 
