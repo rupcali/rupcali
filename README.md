@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **python projects**
 
-- 🌱 I’m currently learning **python, pandas, tensorflow**
+- 🌱 I’m currently learning **python, html, css*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
