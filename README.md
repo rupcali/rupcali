@@ -1,9 +1,3 @@
-<h1 align="center">ı</h1>
-<h3 align="center"></h3>
-
-- 🔭 I’m currently working on **python projects and a website**
-
-- 🌱 I’m currently learning **python, html, css**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
